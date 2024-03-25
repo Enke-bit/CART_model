@@ -1,0 +1,5 @@
+- Ağaca dayı olan modeli örnek üzerinden anlatığım bir çalışmna.
+- Bu çalışmada ağaç yapıları nasıl kurulur bu yapıların hiper paremetreleri nedir onları örnek kodlar üzeinden anllatım.
+- Sonrasında bir modeli hiper paremetre değerini tunned etmeden kurdum ve tunned ederek kurdum ve sonrasında sonucu görmeye çalıştım sizlere.
+-konuyu terorik olarak anlatığım bir çalışma linki ; https://medium.com/@ibrahimpuskullu44/bilgi-orman%C4%B1n%C4%B1n-dallar%C4%B1nda-seyahat-s%C4%B1n%C4%B1fland%C4%B1rma-ve-regresyon-a%C4%9Fa%C3%A7lar%C4%B1na-derin-bir-bak%C4%B1%C5%9F-123c1657e247
+- Umarım katkıda bulunur iyi talışmalar.
